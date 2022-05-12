@@ -34,15 +34,14 @@
 
 <br/><br/>
 
-<div>
-  
+<div>  
   <img align='right' src="https://github-readme-stats.vercel.app/api?username=SeoBeen&show_icons=true&theme=vision-friendly-dark" width="400px;">
     
   ### Experience
   - 🎓 SSAFY 6기 (2021.07 ~ now)
+  
  </div>
   
-<br/>
 
 
 <!--
