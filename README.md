@@ -27,8 +27,9 @@
   
   ### Who I Am
 
-  - 📚 I’m currently learning `Java`, `Spring`, `JPA`, `Algorithm` 
-  - 🏫 I majored in Information Technology
+  - 새롭게 시도하고 새로운 기술스택 학습을 좋아합니다.
+  - 다양한 경험을 하면서 `꾸준히` 성장하는 개발자가 되고 싶습니다.
+  - 📚 최근 Clean Code를 위한 `TDD` 와 `OOP`에 관심이 많습니다.  
    
 </div>
 
